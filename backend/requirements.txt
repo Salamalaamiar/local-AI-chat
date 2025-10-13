@@ -1,0 +1,5 @@
+#This file lists all dependencies, so others can run pip install -r requirements.txt to install them later.
+fastapi
+uvicorn
+requests
+python-dotenv

@@ -1,0 +1,22 @@
+# Bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Test and coverage results
+.coverage
+*.cover
+htmlcov/
+
+# IDE/editor folders
+.vscode/
+.idea/
