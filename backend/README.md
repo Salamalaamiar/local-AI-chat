@@ -26,20 +26,7 @@ This backend acts as a **bridge between the frontend and Ollama**:
 
 ---
 
-## 📁 Project Structure
 
-backend/
-├─ app/
-│ ├─ api/
-│ │ └─ chat.py # Chat endpoint
-│ ├─ models/
-│ │ └─ chat_models.py # Pydantic request/response models
-│ ├─ services/
-│ │ └─ ollama_client.py # Function to communicate with Ollama
-│ └─ main.py # FastAPI app entry point
-├─ venv/ # Python virtual environment
-├─ requirements.txt # Dependencies
-└─ README.md # Project documentation
 
 ## ⚙️ Setup Instructions
 
