@@ -1,6 +1,7 @@
-#  Local AI Chat – Backend
+#  Local AI Chat
 
-A lightweight **FastAPI backend** that connects your **React frontend** to a **locally running Ollama model (LLaMA, Gemma, Mistral, etc.)** for private, ChatGPT-style conversations — without any cloud dependencies.
+Backend :A lightweight **FastAPI backend** that connects your **React frontend** to a **locally running Ollama model (LLaMA, Gemma, Mistral, etc.)** for private, ChatGPT-style conversations — without any cloud dependencies.
+Frontend: interface where user can interact with his AI local and send and recieves messages .
 
 ---
 
